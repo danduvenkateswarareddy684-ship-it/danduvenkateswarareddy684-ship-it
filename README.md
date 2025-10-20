@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi there 👋
+Sample Profile Text:
 
-<!--
-**danduvenkateswarareddy684-ship-it/danduvenkateswarareddy684-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm DANDU VENKATESWARA REDDY 👋
+Python Developer — Core Python: Data Types, Loops, Functions, OOP, File Handling, JSON, Modules
 
-Here are some ideas to get you started:
+Functional Programming: Lambda, Map, Filter, Reduce
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Libraries/Frameworks: Pandas, NumPy, Flask, MySQL (Basic)
+
+🔭 Current project: Student Management System – Manages student data using lists & functions. 2. Expense Tracker – Tracks daily expenses using JSON file handling. 3. Sales Data Analysis – Uses Pandas for data analysis (sum, mean, max).
+
+Tech Stack: Python, JSON, Pandas, NumPy
+Author: Dandu Venkateswara Reddy
+
+Projects (Pinned below
+Student Management System – Manages student data using lists & functions.
+Expense Tracker – Tracks daily expenses using JSON file handling.
+Sales Data Analysis – Uses Pandas for data analysis (sum, mean, max).
